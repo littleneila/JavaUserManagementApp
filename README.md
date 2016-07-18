@@ -3,5 +3,5 @@
 
 Simple user account management application with basic CRUD operations to manage a user base.
 
-
-
+### Screenshots
+![ProjectStructure](screenshots/project-structure.png?raw=true "ProjectStructure")
